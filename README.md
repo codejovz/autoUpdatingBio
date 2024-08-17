@@ -13,4 +13,4 @@ If you create one for yourself, you can copy this repository. You would only hav
 Feel free to [open an issue](https://github.com/jotaaloud/autoUpdatingBio/issues) at this repository if you have any doubts!
 
 [![Execute the update script](https://github.com/jotaaloud/autoUpdatingBio/actions/workflows/instructions.yml/badge.svg)](https://github.com/jotaaloud/autoUpdatingBio/actions/workflows/instructions.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](LICENSE)
