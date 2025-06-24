@@ -8,7 +8,7 @@ GITHUB_USERNAME = os.getenv('GITHUB_USERNAME')
   
 def update_bio():
   madrid_tz = timezone('Europe/Madrid')
-  baseBio = 'Cross-Platform Development degree (DAM) student. I have a verifiable B2 level of English and the High School Diploma.'
+  baseBio = 'Cross-Platform Development (DAM) dev. I have a verifiable B2 level of English and the High School Diploma.'
   hora_actual = datetime.now(madrid_tz).hour
   if 6 <= hora_actual < 14:
     biog = baseBio + ' Full of energies!'
